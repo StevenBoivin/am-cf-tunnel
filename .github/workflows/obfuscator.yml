@@ -27,7 +27,7 @@ jobs:
 
       - name: Obfuscate code
         run: |
-          javascript-obfuscator _worker.src.js --output _worker自用src加密.js \
+          javascript-obfuscator _worker.src.js --output _worker.srcjiami.js \
           --compact true \
           --control-flow-flattening true \
           --control-flow-flattening-threshold 1 \
