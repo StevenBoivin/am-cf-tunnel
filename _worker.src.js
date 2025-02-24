@@ -3,7 +3,7 @@
  * Telegram Group: https://t.me/am_clubs
  * GitHub Repository: https://github.com/amclubs
  * Personal Blog: https://amclubs.blogspot.com
- * Personal Blog: https://amclubss.com
+ * Personal Blog: https://amclubss.comzy
  */
 
 // @ts-ignore
